@@ -1,0 +1,15 @@
+C:\Users\kumarab\OOPs\bin\Debug\net6.0\OOPs.exe
+C:\Users\kumarab\OOPs\bin\Debug\net6.0\OOPs.deps.json
+C:\Users\kumarab\OOPs\bin\Debug\net6.0\OOPs.runtimeconfig.json
+C:\Users\kumarab\OOPs\bin\Debug\net6.0\OOPs.dll
+C:\Users\kumarab\OOPs\bin\Debug\net6.0\OOPs.pdb
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.csproj.AssemblyReference.cache
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.AssemblyInfoInputs.cache
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.AssemblyInfo.cs
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.csproj.CoreCompileInputs.cache
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.dll
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\refint\OOPs.dll
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.pdb
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\OOPs.genruntimeconfig.cache
+C:\Users\kumarab\OOPs\obj\Debug\net6.0\ref\OOPs.dll
